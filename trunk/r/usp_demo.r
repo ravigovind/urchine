@@ -1,7 +1,7 @@
 ###############################################################################
 #                      cannibal genetic algorithm (in r)                      #
 ###############################################################################
-# Copyright (c) 2007 Jonathan Lucas Reddinger <lucas@wingedleopard.net>       #
+# Copyright (c) 2007-2008 Jonathan Lucas Reddinger <lucas@wingedleopard.net>  #
 #                                                                             #
 # Permission to use, copy, modify, and distribute this software for any       #
 # purpose with or without fee is hereby granted, provided that the above      #
