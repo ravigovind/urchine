@@ -1,0 +1,1 @@
+This project maintains a cannibalistic genetic algorithm (GA) coded in R.
